@@ -1,0 +1,24 @@
+---
+abstract: 'A clone of the classic Eliza program'
+author:
+  - 'John Nolan <jpnolan@sonic.net>'
+build_requires:
+  Test::More: '0.88'
+configure_requires:
+  ExtUtils::MakeMaker: '6.30'
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 5.015, CPAN::Meta::Converter version 2.133380'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Chatbot-Eliza
+requires:
+  Carp: '0'
+  perl: '5.006'
+  strict: '0'
+  warnings: '0'
+resources:
+  homepage: https://github.com/neilbowers/Chatbot-Eliza
+  repository: https://github.com/neilbowers/Chatbot-Eliza.git
+version: 1.04_01
