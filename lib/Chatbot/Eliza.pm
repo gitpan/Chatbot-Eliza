@@ -1,7 +1,7 @@
 ###################################################################
 
 package Chatbot::Eliza;
-$Chatbot::Eliza::VERSION = '1.04_01';
+$Chatbot::Eliza::VERSION = '1.05';
 # Copyright (c) 1997-2003 John Nolan. All rights reserved. 
 # This program is free software.  You may modify and/or 
 # distribute it under the same terms as Perl itself.  

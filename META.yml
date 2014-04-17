@@ -21,4 +21,4 @@ requires:
 resources:
   homepage: https://github.com/neilbowers/Chatbot-Eliza
   repository: https://github.com/neilbowers/Chatbot-Eliza.git
-version: 1.04_01
+version: '1.05'
